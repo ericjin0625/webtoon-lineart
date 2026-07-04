@@ -5,7 +5,7 @@ import io
 
 # 1. 웹 페이지 스타일 및 레이아웃 설정
 st.set_page_config(
-    page_title="무검열 웹툰 선따기 AI 에이전트",
+    page_title="선따기 AI 에이전트",
     page_icon="🎨",
     layout="wide"  # 화면을 넓게 쓰기 위해 wide 모드로 설정
 )
