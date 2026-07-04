@@ -1,0 +1,6 @@
+streamlit
+controlnet-aux
+torch
+torchvision
+Pillow
+opencv-python-headless
