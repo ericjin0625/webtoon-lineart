@@ -7,12 +7,12 @@ import zipfile
 
 # 1. 웹 페이지 스타일 및 레이아웃 설정
 st.set_page_config(
-    page_title="무검열 웹툰 선따기 AI 에이전트",
+    page_title="웹툰 선따기 AI 에이전트",
     page_icon="🎨",
     layout="wide"
 )
 
-st.title("🎨 무검열 웹툰 선화 추출 에이전트 (V4: 대량 처리 모드)")
+st.title("🎨 웹툰 선화 추출 에이전트 (V4: 대량 처리 모드)")
 st.write("여러 장의 이미지를 한 번에 올리고, 한꺼번에 선화로 변환하여 **압축 파일(ZIP)**로 일괄 다운로드할 수 있습니다.")
 st.markdown("---")
 
